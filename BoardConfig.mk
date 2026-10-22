@@ -51,3 +51,6 @@ include vendor/xiaomi/mojito/BoardConfigVendor.mk
 
 # Inherit from proprietary files for Leica Camera
 -include vendor/xiaomi/mojito-leicacamera/BoardConfigVendor.mk
+
+
+include device/xiaomi/miuicamera-sunny/BoardConfig.mk
